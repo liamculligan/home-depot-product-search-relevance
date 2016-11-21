@@ -2,10 +2,10 @@
 [Kaggle - Predict the relevance of search results] (https://www.kaggle.com/c/home-depot-product-search-relevance)
 
 ## Introduction
-The goal of this competition was to predict the relevance between pairs of real customer searches on [Home Depot's website](http://www.homedepot.com) and the product returned for each search. <br> The feature set provided consisted of searches, the names of the products returned for each search, a text description of the products and technical specifications of the proudcts, where available. <br>
+The goal of this competition was to predict the relevance between pairs of real customer searches on [Home Depot's website](http://www.homedepot.com) and a product returned for each search. <br> The feature set provided consisted of searches, the names of the products returned for each search, a text description of the products and technical specifications of the products, where available. <br>
 Each query had an associated relevance score between 1 (not relevant) and 3 (highly relevant), which were obtained by human evaluation. <br> Model predictions were evaluated using [root mean squared error](https://www.kaggle.com/wiki/RootMeanSquaredError).
 
-## Team Meambers
+## Team Members
 The team, Arrested Development, consisted of [Tyrone Cragg] (https://github.com/tyronecragg) and [Liam Culligan] (https://github.com/liamculligan).
 
 ## Solution Architecture
@@ -38,6 +38,3 @@ The solution obtained a rank of [74th out of 2125 teams] (https://www.kaggle.com
 ## Requirements
 * R 3+
 * Python 3+
-
-# TO DO
-Finish
