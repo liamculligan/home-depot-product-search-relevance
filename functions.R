@@ -1,6 +1,6 @@
 #Home Depot Product Search Relevance
 
-#Functions
+#Custom functions required for the project
 
 #Authors: Tyrone Cragg & Liam Culligan
 
