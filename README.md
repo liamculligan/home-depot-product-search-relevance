@@ -16,7 +16,7 @@ The solution obtained a rank of [74th out of 2125 teams] (https://www.kaggle.com
 
 ## Execution
 1. Create a working directory for the project <br>
-2. [Download the data from Kaggle] (https://www.kaggle.com/c/home-depot-product-search-relevance/data) and place in the working directory.
+2. [Download the data from Kaggle] (https://www.kaggle.com/c/home-depot-product-search-relevance/data) and place in the working directory
 3. Run pre-processing scripts: <br>
 3.1 `spelling_corrector.py` <br>
 3.2 `pre_process.R` <br>
