@@ -9,7 +9,7 @@ Each query had an associated relevance score between 1 (not relevant) and 3 (hig
 The team, Arrested Development, consisted of [Tyrone Cragg] (https://github.com/tyronecragg) and [Liam Culligan] (https://github.com/liamculligan).
 
 ## Solution Architecture
-![Solution Architecture](https://github.com/liamculligan/home-depot-product-search-relevance/blob/master/Solution-Architecture.jpg?raw=true "Solution Architecture")
+![Solution Architecture](https://github.com/liamculligan/home-depot-product-search-relevance/blob/master/Images/Solution-Architecture.jpg?raw=true "Solution Architecture")
 
 ## Performance
 The solution obtained a rank of [74th out of 2125 teams] (https://www.kaggle.com/c/bosch-production-line-performance/leaderboard/private) with a private leaderboard root mean squared error of 0.45673. <br> The cross-validated root mean squared error for the final model was 0.44533.
